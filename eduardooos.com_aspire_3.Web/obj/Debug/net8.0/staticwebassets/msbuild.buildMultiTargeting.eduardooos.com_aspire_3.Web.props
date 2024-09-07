@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\eduardooos.com_aspire_3.Web.props" />
+</Project>
